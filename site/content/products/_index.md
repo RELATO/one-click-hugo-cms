@@ -1,5 +1,5 @@
 ---
-title: Nosso café sensacional
+title: Nosso café sensacional de fato
 type: products
 image: /img/products-jumbotron.jpg
 intro:
