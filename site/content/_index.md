@@ -1,5 +1,5 @@
 ---
-title: Grande café com consciência
+title: Grande café com sabor brasileiro
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
